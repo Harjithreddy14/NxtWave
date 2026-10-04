@@ -1,0 +1,3 @@
+- [x] Recast the existing challenge as a distinctive editorial scrollytelling submission.
+- [x] Add a tangible interactive message draft and adjustable budget exercise without suggesting live campaign results.
+- [x] Check desktop and mobile readability, controls, and preview diagnostics.
